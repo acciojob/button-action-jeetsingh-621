@@ -1,1 +1,11 @@
 /* Your CSS code here. */
+.hide {
+    display: none; /* Initially hide the paragraph */
+  }
+  
+  .show {
+    display: block; /* Make the paragraph visible */
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
